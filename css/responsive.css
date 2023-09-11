@@ -1,0 +1,9 @@
+@media (min-width: 700px) {
+    :root{
+        --bg-url: url(../assets/Background-desk.jpg);
+    }
+
+    .light{
+        --bg-url: url(../assets/Background-desk-light.jpg);
+    }
+}

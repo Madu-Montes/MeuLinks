@@ -172,6 +172,10 @@ footer{
   font-size: 14px;
 }
 
+ul p{
+  text-align: center;
+}
+
 /*quem sou*/
 
 .historia{
